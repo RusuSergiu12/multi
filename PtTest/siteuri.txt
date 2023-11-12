@@ -1,0 +1,4 @@
+https://www.w3schools.com/html/html5_canvas.asp
+https://webcode.tools/css-generator
+https://getbootstrap.com/docs/5.3/components/card/
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background
